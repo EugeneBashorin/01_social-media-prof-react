@@ -51,7 +51,6 @@
     justify-content:space-evenly;
     align-items: center;
     border-radius: 0 0 10px 10px;
-
     background-color: rgb(239, 248, 252);
 }
 
@@ -66,7 +65,6 @@
 }
 
 .stats_item:not(:last-child){
-
     border-right: 1px solid #A9A9A9;
 }
 

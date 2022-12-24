@@ -1,0 +1,17 @@
+.statistics {
+    display: block;
+    max-width: 350px;
+    margin: 50px auto 50px auto;
+    text-align: center;
+    padding-top: 15px;
+    background-color: #fff;
+}
+.statList {
+    display: flex;
+    justify-content: space-around;
+}
+.title {
+    font-size: 22px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
